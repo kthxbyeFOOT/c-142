@@ -1,0 +1,45 @@
+.heading{
+width:100%;
+text-align:left;
+}
+
+
+.heading button{
+float:right;
+border:1px solid lime;
+}
+
+#start, #status, #restart{
+font:22px;
+
+}
+
+.modal-dialog{
+width:70%;
+}
+
+.modal-body{
+text-align:left;
+font-size:20px;
+}
+
+.copy_right_footer{
+width:100%;
+background-color:rgb(88, 88, 88);
+color: rgb(255, 69, 0);
+line-height:3;
+bottom: 0;
+position: fixed;
+font-family:cursive
+}
+
+canvas{
+border-radius: 5px;
+border:10px solid green;
+box-shadow:10px 10px 2px lime;
+font-family:cursive;
+}
+
+body{
+font-family:cursive;
+}
